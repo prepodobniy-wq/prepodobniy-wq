@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **python, JavaScript, php**
 
-- 📫 How to reach me **xoxoxppx8181@gmail.com**
+- 📫 How to reach me: **xoxoxppx8181@gmail.com**
 
-- ⚡ Fun fact **People says I'm good at joking, cooking, sleeping**
+- ⚡ Fun fact: **People says I'm good at joking, cooking, sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
